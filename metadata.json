@@ -1,0 +1,12 @@
+{
+  "type": "graph",
+  "uid": "minimalGraph",
+  "version": 1,
+  "title": "Mininal Graph",
+  "author": "Evoplex Team",
+  "description": "This is a mininal example of a graph plugin for Evoplex.",
+
+  "pluginAttributesScope": [],
+  "supportsEdgeAttrsGen": true,
+  "validGraphTypes": ["undirected", "directed"]
+}
